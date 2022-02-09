@@ -1,0 +1,1 @@
+iniciar las variables de entorno con . .env
